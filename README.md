@@ -37,7 +37,6 @@ Type npm -v and press Enter. You should see the installed npm version printed in
 3. Execute the below commands one after the other
    ```
    cd backend
-   cd backend
    pip install -r requirements.txt
    python app.py
     ```
