@@ -23,7 +23,7 @@ Type npm -v and press Enter. You should see the installed npm version printed in
    ```
    npx create-react-app@latest frontend
 ```
-8.  After creating the react paste the code [app.js](https://drive.google.com/file/d/1dOICL8ttvnY8or3v3r-J8Mc7hAa-d3ui/view?usp=sharing) [app.css](https://drive.google.com/file/d/1nvqs2E2wLLYPpKa-6u4jU3uvtfseJcZV/view?usp=sharing) in the respective files in the path frontend -> src -> app.js,app.css
+8.  After creating the react paste the code [app.js](https://drive.google.com/file/d/1dOICL8ttvnY8or3v3r-J8Mc7hAa-d3ui/view?usp=sharing), [app.css](https://drive.google.com/file/d/1nvqs2E2wLLYPpKa-6u4jU3uvtfseJcZV/view?usp=sharing) in the respective files in the path frontend -> src -> app.js,app.css
 9.  After pasting the code respectively open new terminal and follow the below commands one after the other :
    ```
     cd frontend
